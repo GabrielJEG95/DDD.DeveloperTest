@@ -1,0 +1,14 @@
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\bin\Debug\net6.0\DDD.TestDeveloperTestDomain.deps.json
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\bin\Debug\net6.0\DDD.TestDeveloperTestDomain.dll
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\bin\Debug\net6.0\DDD.TestDeveloperTestDomain.pdb
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.csproj.AssemblyReference.cache
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.AssemblyInfoInputs.cache
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.AssemblyInfo.cs
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.csproj.CoreCompileInputs.cache
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.dll
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\refint\DDD.TestDeveloperTestDomain.dll
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.pdb
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\ref\DDD.TestDeveloperTestDomain.dll
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\bin\Debug\net6.0\DDD.TestDeveloperTestDomain.runtimeconfig.json
+C:\Users\desarrolloit\source\repos\DDD.DeveloperTest\DDD.TestDeveloperTestDomain\obj\Debug\net6.0\DDD.TestDeveloperTestDomain.genruntimeconfig.cache
