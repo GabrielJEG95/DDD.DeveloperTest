@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "30x10CDMyh6kNySIIWNSresX+qiUQOUzJRD4II8HzvNth8CMc0d+T4hdX1rtjKg9E/LBufRY90z2bSyoDqzgvQ==",
+  "dgSpecHash": "Ir2kkXZe53MdtgXbkIWCNq9+hww3D5O4Od9l0JvHb+bi/pRHYyiDgRiOO2Fl4xnLa0dgJWVr/YHcTogzTpw+0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrolloit\\source\\repos\\DDD.DeveloperTest\\DDD.TestDeveloperTestDomain\\DDD.TestDeveloperTestDomain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\desarrolloit\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
     "C:\\Users\\desarrolloit\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\desarrolloit\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\desarrolloit\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
